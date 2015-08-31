@@ -1,0 +1,13 @@
+{
+  "name": "bowerBackstop",
+  "version": "0.0.0",
+  "description": "visual regression testing with backstopJS",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
